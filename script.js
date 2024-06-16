@@ -13,9 +13,9 @@ async function loadJson(url) {
   }
 
 
-// const path = window.location.pathname;
-const url = "https://pocketURL.github.io/bababoi/bongo";
-const path = "linktree/aman";
+const path = window.location.pathname;
+// const url = "https://pocketURL.github.io/bababoi/bongo";
+// const path = "linktree/aman";
 
 
 
