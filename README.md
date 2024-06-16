@@ -1,0 +1,3 @@
+## Logic
+
+I will be exploiting the custom 404.html file to create a dynamic link redirecting website...
